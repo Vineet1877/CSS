@@ -1,1 +1,29 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(231, 231, 231);
+  line-height: 1.5;
+}
 
+h1,
+h2,
+h3 {
+  color: rgb(54, 179, 228);
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+p,
+li {
+  font-size: 16px;
+  color: rgb(123, 122, 122);
+}
